@@ -17,8 +17,6 @@ This repository contains a Python implementation of a neural network designed to
 - [Neural Network Architecture](#neural-network-architecture)
 - [Training](#training)
 - [Testing and Prediction](#testing-and-prediction)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
