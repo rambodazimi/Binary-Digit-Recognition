@@ -23,17 +23,11 @@ This repository contains a Python implementation of a neural network designed to
 ## Getting Started
 
 ### Installation
+Make sure that you have already installed the required libraries and frameworks on you computer:
+TensorFlow
+NumPy
+os
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
 Usage
 Ensure you have your training data in the appropriate format.
 
