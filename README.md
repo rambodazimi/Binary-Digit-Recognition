@@ -33,6 +33,7 @@ os
 
 ![Neural Network Architecture](https://i.ibb.co/jMNQyL8/Screenshot-2023-08-07-at-1-19-47-PM.png)
 
+
 Ensure you have your training data in the appropriate format.
 
 Update the load_data() function in the autils.py file to load your training data.
@@ -46,6 +47,7 @@ python main.py
 ### Neural Network Architecture
 
 ![Neural Network Architecture](https://i.ibb.co/C7Q2zj4/Screenshot-2023-08-07-at-1-20-03-PM.png)
+
 The neural network architecture consists of:
 
 Input Layer: 400 units (flattened 20x20 image)
