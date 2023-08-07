@@ -45,8 +45,7 @@ python main.py
 
 ### Neural Network Architecture
 
-![Neural Network Architecture](https://i.ibb.co/jMNQyL8/Screenshot-2023-08-07-at-1-19-47-PM.png)
-
+![Neural Network Architecture](https://i.ibb.co/C7Q2zj4/Screenshot-2023-08-07-at-1-20-03-PM.png)
 The neural network architecture consists of:
 
 Input Layer: 400 units (flattened 20x20 image)
