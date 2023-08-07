@@ -24,8 +24,11 @@ This repository contains a Python implementation of a neural network designed to
 
 ### Installation
 Make sure that you have already installed the required libraries and frameworks on you computer:
+
 TensorFlow
+
 NumPy
+
 os
 
 Usage
