@@ -6,7 +6,6 @@ A Neural Network for Handwritten Digit Recognition, Binary
 ![Author: Rambod Azimi](https://img.shields.io/badge/Author-Rambod%20Azimi-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 This repository contains a Python implementation of a neural network designed to recognize handwritten digits zero and one using TensorFlow and Keras. The neural network architecture includes two hidden layers with sigmoid activation functions and an output layer for binary classification.
 
